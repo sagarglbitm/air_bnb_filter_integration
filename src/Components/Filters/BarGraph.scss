@@ -1,0 +1,16 @@
+.bar-graph {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    height: 200px;
+    width: 500px;
+    padding-right: 10px;
+    border-bottom: 1px solid black;
+    transform: translate(10%,5%);
+  }
+   
+  .bar {
+    width: 100px;
+    margin-right: 5px;
+    background-color: black;
+  }

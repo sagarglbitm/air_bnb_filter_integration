@@ -1,0 +1,167 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* border: 10px solid black; */
+}
+
+.categories-container {
+  display: flex;
+  align-items: center;
+  margin-top: 6%;
+  margin-right: 6%;
+  margin-left: 6%;
+  margin-bottom: 1%;
+/* border: 2px solid black; */
+
+}
+/* .main-div-filter-styling {
+    border-top: 1px solid var(--grey);
+    padding: 1rem 1rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    overflow-x: hidden;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+} */
+.images-box-styling {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 0.15rem;
+    opacity: 0.5;
+    border-bottom: 1px solid var(--white);
+    min-width: 85px;
+}
+
+
+.images-box-styling.selected {
+  opacity: 1;
+  color: rgb(10, 10, 10);
+  border-bottom: 2px solid black;
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+
+.links-img{
+    width: 1.5rem;
+    height: 1.5rem;
+    object-fit: contain;
+}
+.label-text-styling{
+  font-size: 0.7rem;
+  font-weight: 600;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: var(--font-grey);
+}
+.arrow-slider-styling {
+  cursor: pointer;
+  font-size: 2em;
+}
+
+.left-arrow {
+  margin-left: -2%;
+  width: 20%;
+ 
+}
+
+.right-arrow {
+  margin-right: 1%;
+  width: 20%;
+ 
+}
+
+.slider-icons-container {
+  display: flex;
+  width: 70%;
+  align-items: center;
+  
+}
+
+.slider-bar {
+  overflow: hidden;
+  flex-grow: 1;
+}
+
+.slider-icons {
+  transition: transform 0.3s ease;
+  display: flex;
+ 
+}
+.hidden{
+  display: none;
+}
+.toggle-and-filters-container {
+  display: flex;
+  width: 30%; /* Adjust as needed */
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 3px; 
+  margin-right: 3px;/* Adjust as needed */
+}
+.filters-button{
+  width:35%;
+}
+.filters-button-styling{
+  background: white;
+  border: 1.5px solid lightgrey;
+  border-radius: 10px;
+  color: black;
+  font-weight: 500;
+  width: 110%;
+  padding: 8px;
+}
+/* Add these styles to your existing CSS file */
+
+.toggle-before-taxes {
+  display: flex;
+  align-items: center;
+  border: 1.5px solid lightgrey;
+  margin-left: 2%;
+  border-radius: 10px;
+  width: 85%;
+  padding: 5px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  
+}
+
+.display-before-taxes {
+  margin-right: 10px; /* Adjust as needed */
+}
+.display-before-taxes-text-div{
+  margin-right: 20px;
+}
+.slider-toggle {
+  position: relative;
+  width: 35px;
+  height: 24px;
+  background-color: #ccc;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+ 
+}
+
+.slider-circle {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  border-radius: 50%;
+  transition: transform 0.3s ease;
+}
+
+.slider-toggle.active {
+  background-color: black; /* Change the color when active if needed */
+}
+
+.slider-toggle.active .slider-circle {
+  transform: translateX(26px);
+}
+
+/* Add other styles as needed */

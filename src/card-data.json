@@ -1,0 +1,1534 @@
+[
+    
+    {
+        "rating": 4,
+        "desc": "Cats castle",
+        "imgSrc": [
+            "https://a0.muscache.com/im/pictures/b00c1db4-b933-4c7f-a105-53991f779321.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/79467ef9-c323-448e-8c4b-f240793eff81.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/8aefd5b1-fe0b-4bb4-adfc-06045df669bb.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/15bc740b-aeb5-44d0-9feb-b79aa9591b61.jpg?im_w=720"
+        ],
+        "price": "30000",
+        "checkInDate": "2023-05-25",
+        "checkOutDate": "2023-05-30",
+        "title": "Cardross, UK",
+        "location": "uk",
+        "property_type": [
+            "Arctic",
+            "Rooms",
+            "OMG!"
+        ],
+        "total_before_taxes": "100000",
+        "place": [
+            "Anytype"
+            
+           
+        ],
+        "bedrooms" : "6",
+        "beds" : "6",
+        "bathrooms" : "4",
+        "typeOfProperty" : [
+            "House",
+            
+            "Guest House"
+            
+        ],
+        
+        "essentials": [
+           
+            "Air Conditioning",
+            "Heating",
+            
+            "TV",
+            "Hair dryer",
+            "Iron"
+        ],
+        "features" : [
+           
+            
+           
+            "Cot",
+            "King bed",
+            "Gym",
+            "BBQ grill",
+            
+            "Indoor fireplace"
+          ],
+          "view" : ["Waterfront"],
+          
+          "safety" : [
+            "Smoke alarm"
+           
+        ],
+        "bookingOptions" : [
+            
+            
+        ],
+        "guestAccessibility" : [
+            
+            "Guest entrance wider than 32 inches (81 centimetres)",
+            "Accessible parking spot"
+            
+        ],
+        "bedroomFeatures" : [
+            "Step-free bedroom access",
+            "Bedroom entrance wider than 32 inches (81 centimetres)"
+        ],
+        "bathroomFeatures" : [
+            "Step-free bathroom access",
+            "Bathroom entrance wider than 32 inches (81 centimetres)",
+            "Shower grab bar",
+            
+            "Shower or bath chair"
+        ],
+        "equipement" : "Ceiling or mobile hoist",
+        "language" : [
+            "English",
+            "French",
+           
+           
+            "Hebrew",
+            "Polish",
+           
+            "Swedish",
+            "Ukrainian"
+        ],
+        "owner": "https://i.guim.co.uk/img/media/9b089d0d5d0939056d2be35001310adc0f355895/946_287_3140_1884/master/3140.jpg?width=620&dpr=2&s=none",
+      "guests": {
+        "adults": 3,
+        "children": 4,
+        "infants":2,
+        "pets": 2
+      }
+    },
+    {
+        "rating": 4,
+        "desc": "Tiny cabin on farm",
+        "imgSrc": [
+            "https://a0.muscache.com/im/pictures/miso/Hosting-711637451439857121/original/ede47e37-5a0a-400b-8124-6a36fb3eaa90.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-711637451439857121/original/d29b80ba-7be1-4cd9-b52d-bfce76a74cb5.jpeg?im_w=720"
+        ],
+        "price": "45000",
+        "checkInDate": "2023-10-10",
+        "checkOutDate": "2023-10-20",
+        "title": "Farm stay in Fintry",
+        "location": "uk",
+        "property_type": [
+            "Arctic",
+            "Rooms"
+        ],
+        "total_before_taxes": "100000",
+        "place": [
+            
+            "Rooms"
+            
+        ],
+        "bedrooms" : "1",
+        "beds" : "2",
+        "bathrooms" : "1",
+        "typeOfProperty" : [
+            
+            "Guest House"
+            
+        ],
+        
+        "essentials": [
+            "Wifi",
+            "Kitchen",
+            
+            
+            "Heating",
+            
+            "TV",
+            "Hair dryer",
+            "Iron"
+        ],
+        "features" : [
+            
+            
+            "Breakfast",
+            "Indoor fireplace",
+            "Smoking allowed"
+          ],
+          "view" : ["Waterfront"],
+          
+          "safety" : [
+            "Smoke alarm", 
+            "Carbon monoxide alarm"
+        ],
+        "bookingOptions": [
+            "Instant Booking",
+            "Self check-in",
+            "Allows pets"
+        ],
+        "guestAccessibility" : [
+            "Step-free guest entrance",
+           
+          
+            "Step-free path to the guest entrance"
+        ],
+        "bedroomFeatures" : [
+            "Step-free bedroom access"
+            
+            
+        ],
+        "bathroomFeatures" : [
+            "Step-free bathroom access"
+           
+        ],
+        
+        "equipement" : "Ceiling or mobile hoist",
+        "language" : [
+            
+            "French",
+            "German",
+            "Japanese",
+            "Greek"
+            
+        ],
+        "owner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWyOWHGSwMnO8F-XJKrMd565vZoC4WD7SLSw&usqp=CAU",
+      "guests": {
+        "adults": 3,
+        "children": 4,
+        "infants":2,
+        "pets": 2
+      }
+    },
+    {
+        "rating": 4,
+        "desc": "Beautiful sun facing house",
+        "imgSrc": [
+            "https://a0.muscache.com/im/pictures/miso/Hosting-944947456033764524/original/2d096581-a317-4553-a83a-6f5f543ee42c.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-944947456033764524/original/09781f63-bd4f-4f4b-a8eb-fa32538a0b40.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-944947456033764524/original/eaa7addf-242c-47ec-936f-b923000f4677.jpeg?im_w=720",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqg5siFywtSULLeH0eaN3k6cBQy_HSnJpJGQ&usqp=CAU"
+        ],
+        "price": "20000",
+        "checkInDate": "2023-05-28",
+        "checkOutDate": "2023-06-03",
+        "title": "Flat in stavanger",
+        "location": "europe",
+        "property_type": [
+            "Arctic",
+            "Rooms",
+            "Design"
+        ],
+        "total_before_taxes": "100000",
+        "place": [
+           
+            "Rooms"
+            
+        ],
+        "bedrooms" : "2",
+        "beds" : "2",
+        "bathrooms" : "2",
+        "typeOfProperty" : [
+            
+            "Flat",
+            "Guest House"
+           
+        ],
+        
+        "essentials": [
+            "Wifi",
+            "Kitchen",
+            "Washing Machine",
+           
+            
+            "Heating"
+            
+           
+        ],
+        "features" : [
+            
+            "Hot tub",
+            "Free parking",
+           
+            "King bed",
+            "Gym",
+            "BBQ grill",
+            "Breakfast",
+            
+            "Smoking allowed"
+          ],
+          "view" : ["Waterfront"],
+          
+          "safety" : [
+            "Smoke alarm", 
+            "Carbon monoxide alarm"
+        ],
+        "bookingOptions" : [
+            "Instant Booking",
+            "Self check-in"
+            
+            
+        ],
+        "guestAccessibility" : [
+            
+            "Guest entrance wider than 32 inches (81 centimetres)",
+            "Accessible parking spot"
+            
+        ],
+        "bedroomFeatures" : [
+            "Step-free bedroom access",
+            "Bedroom entrance wider than 32 inches (81 centimetres)"
+        ],
+        "bathroomFeatures" : [
+            "Step-free bathroom access",
+            "Bathroom entrance wider than 32 inches (81 centimetres)"
+            
+        ],
+
+       
+        "equipement" : "Ceiling or mobile hoist",
+        
+       
+        
+        "language" : [
+            "Japanese",
+            "English"
+            
+        ],
+        "owner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMBxcos1JFiplBmS2iFNieJdXB0e-cgNXDNw&usqp=CAU",
+      "guests": {
+        "adults": 3,
+        "children": 4,
+        "infants":2,
+        "pets": 2
+      }
+    },
+    {
+        "rating": 4,
+        "desc": "Stylish beach apartment",
+        "imgSrc": [
+            "https://a0.muscache.com/im/pictures/miso/Hosting-1006357571946494820/original/d6bfcdee-534f-4baf-bc6f-a3713cc89e31.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-1006357571946494820/original/435a1d50-c06d-4955-b193-21b48661c8a8.jpeg?im_w=720",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqg5siFywtSULLeH0eaN3k6cBQy_HSnJpJGQ&usqp=CAU"
+        ],
+        "price": "45000",
+        "checkInDate": "2023-10-10",
+        "checkOutDate": "2023-10-20",
+        "title": "Flat in Alboraria",
+        "location": "europe",
+        "property_type": [
+            "Arctic",
+            "Rooms",
+            "Farms"
+        ],
+        "total_before_taxes": "100000",
+        "place": [
+           
+            "Rooms"
+            
+            
+        ],
+        "bedrooms" : "3",
+        "beds" : "2",
+        "bathrooms" : "2",
+        "typeOfProperty" : [
+            
+            "Flat",
+            
+            "Hotel"
+        ],
+        
+        "essentials": [
+            "Wifi",
+            
+            "TV",
+            "Hair dryer",
+            "Iron"
+        ],
+        "features" : [
+            
+            "Hot tub",
+           
+           
+            
+            "King bed",
+            
+            "BBQ grill",
+            "Breakfast"
+            
+            
+          ],
+          "view" : ["Waterfront"],
+          "safety" : [
+            "Smoke alarm", 
+            "Carbon monoxide alarm"
+        ],
+        "bookingOptions" : [
+            "Instant Booking",
+            "Self check-in"
+            
+        ],
+        "guestAccessibility" : [
+            "Step-free guest entrance",
+            "Guest entrance wider than 32 inches (81 centimetres)",
+            
+            "Step-free path to the guest entrance"
+        ],
+        "bedroomFeatures" : [
+            "Step-free bedroom access",
+            "Bedroom entrance wider than 32 inches (81 centimetres)"
+        ],
+        "bathroomFeatures" : [
+            "Step-free bathroom access",
+            "Bathroom entrance wider than 32 inches (81 centimetres)"
+            
+        ],
+        "equipement" : "Ceiling or mobile hoist",
+        
+        "language" : [
+            "English",
+            
+            
+            "Hebrew"
+            
+        ],
+        "owner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoKJPxxwPeNvISnBbZsZHe887Ws0FnrL7o0w&usqp=CAU",
+      "guests": {
+        "adults": 3,
+        "children": 4,
+        "infants":2,
+        "pets": 2
+      }
+    },
+    {
+        "rating": 4,
+        "desc": "Beach and Sunset Views",
+        "imgSrc": [
+            "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lpibo-ew-1656015868.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqg5siFywtSULLeH0eaN3k6cBQy_HSnJpJGQ&usqp=CAU"
+        ],
+        "price": "45000",
+        "checkInDate": "2023-10-10",
+        "checkOutDate": "2023-10-20",
+        "title": "Hotel 3",
+        "property_type": [
+            "Arctic",
+            "Rooms",
+            "Amazing pools"
+        ],
+        "total_before_taxes": "100000",
+        "place": [
+           
+            "Rooms"
+            
+        ],
+        "bedrooms" : "2",
+        "beds" : "2",
+        "bathrooms" : "2",
+        "typeOfProperty" : [
+            
+            "Guest House",
+            "Hotel"
+        ],
+        
+        "essentials": [
+            "Wifi",
+            "Kitchen",
+            "Washing Machine"
+        
+           
+        ],
+        "features" : [
+            "Pool",
+            "Hot tub",
+            "Free parking",
+           
+            "King bed",
+            "Gym",
+                            
+            "Breakfast",
+                
+            "Smoking allowed"
+          ],
+          "view" : ["Waterfront"],
+          "safety" : [
+            "Smoke alarm", 
+            "Carbon monoxide alarm"
+        ],
+        "bookingOptions" : [
+            "Instant Booking",
+            "Self check-in"
+        
+        ],
+        "guestAccessibility" : [
+            "Step-free guest entrance",
+            "Guest entrance wider than 32 inches (81 centimetres)",
+            "Accessible parking spot",
+            "Step-free path to the guest entrance"
+        ],
+        "bedroomFeatures" : [
+            "Step-free bedroom access",
+            "Bedroom entrance wider than 32 inches (81 centimetres)"
+        ],
+        "bathroomFeatures" : [
+            "Step-free bathroom access",
+            "Bathroom entrance wider than 32 inches (81 centimetres)",
+            "Shower grab bar",
+            "Toilet grab bar",
+            "Step-free shower",
+            "Shower or bath chair"
+        ],
+        "equipement" : "Ceiling or mobile hoist",
+        "language" : [
+            "English",
+            
+            "Dutch",
+            
+            "Polish",
+            "Danish",
+            "Swedish",
+            "Ukrainian"
+        ],
+        "owner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSB-erdLpMkJLEb38wkio0bLDANwQ6A9qdAg&usqp=CAU",
+        "guests": {
+          "adults": 3,
+          "children": 4,
+          "infants":2,
+          "pets": 2
+        }
+    },
+    {
+        "rating": 4,
+        "desc": "Cozy mezzanine tiny villa",
+        "imgSrc": [
+            "https://a0.muscache.com/im/pictures/miso/Hosting-869293644419339012/original/d1789b0b-a2aa-4dee-ba23-ae98ee9c904f.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-869293644419339012/original/365781bb-a2dc-48d7-ac55-96d085498ba9.jpeg?im_w=720"
+        ],
+        "price": "45000",
+        "checkInDate": "2023-10-10",
+        "checkOutDate": "2023-10-20",
+        "title": "Tiny home in kediri",
+        "location": "southeast-asia",
+        "property_type": [
+            "Arctic",
+            "Rooms",
+            "Tiny homes"
+        ],
+        "total_before_taxes": "100000",
+        "place": [
+           
+            
+            "Entire home"
+        ],
+        "bedrooms" : "4",
+        "beds" : "7",
+        "bathrooms" : "3",
+        "typeOfProperty" : [
+            "House",
+            
+            "Guest House",
+            "Hotel"
+        ],
+        
+        "essentials": [
+            "Wifi",
+            "Kitchen",
+            
+            "Dryer",
+            "Heating",
+            
+            "TV",
+            "Hair dryer",
+            "Iron"
+        ],
+        "features" : [
+            "Pool"
+            
+            
+          ],
+          "view" : ["Waterfront"],
+          "safety" : [
+            "Smoke alarm", 
+            "Carbon monoxide alarm"
+        ],
+        "bookingOptions" : [
+            "Instant Booking",
+            "Self check-in",
+            "Allows pets"
+        ],
+        "guestAccessibility" : [
+            "Step-free guest entrance",
+            "Guest entrance wider than 32 inches (81 centimetres)",
+            "Accessible parking spot",
+            "Step-free path to the guest entrance"
+        ],
+        
+       
+        "bedroomFeatures" : [
+            "Step-free bedroom access",
+            "Bedroom entrance wider than 32 inches (81 centimetres)"
+        ],
+        "bathroomFeatures" : [
+            "Step-free bathroom access",
+            "Bathroom entrance wider than 32 inches (81 centimetres)"
+            
+        ],
+       
+        "equipement" : "Ceiling or mobile hoist",
+        "language" : [
+            "English",
+            "French",
+            
+            "Portuguese",
+            
+            "Greek",
+            
+            "Polish",
+            "Danish"
+            
+        ],
+        "owner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT1U6C2anDWNumFX4zHefJ05j1KLD5ln2FDA&usqp=CAU",
+      "guests": {
+        "adults": 3,
+        "children": 4,
+        "infants":2,
+        "pets": 2
+      }
+    },
+    {
+        "rating": 4,
+        "desc": "Large villa with pool",
+        "imgSrc": [
+            "https://a0.muscache.com/im/pictures/miso/Hosting-49666609/original/853f8b21-430d-4b5c-8e7c-13447f384ac4.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-49666609/original/dd4b88a7-3927-4439-9676-dd2740b86217.jpeg?im_w=720"
+        ],
+        "price": "45000",
+        "checkInDate": "2023-10-10",
+        "checkOutDate": "2023-10-20",
+        "title": "Villa in kuta",
+        "location": "southeast-asia",
+        "property_type": [
+            "Arctic",
+            "Rooms",
+            "Lakefront"
+        ],
+        "total_before_taxes": "100000",
+        "place": [
+           
+           
+            "Entire home"
+        ],
+        "bedrooms" : "4",
+        "beds" : "3",
+        "bathrooms" : "3",
+        "typeOfProperty" : [
+            "House",
+            
+            "Guest House"
+        ],
+        
+        "essentials": [
+            "Wifi",
+            "Kitchen",
+            "Washing Machine",
+            "Dryer"
+            
+            
+        ],
+        "features" : [
+            "Pool"
+            
+          ],
+          "view" : ["Waterfront"],
+          "safety" : [
+            "Smoke alarm"
+            
+        ],
+        "bookingOptions" : [
+            "Instant Booking",
+            "Self check-in"
+        ],
+        "guestAccessibility" : [
+            "Step-free guest entrance",
+            
+            "Step-free path to the guest entrance"
+        ],
+        "bedroomFeatures" : [
+            
+            "Bedroom entrance wider than 32 inches (81 centimetres)"
+        ],
+        "bathroomFeatures" : [
+            "Step-free bathroom access",
+            
+            "Shower grab bar",
+            "Toilet grab bar",
+            "Step-free shower"
+            
+        ],
+        "equipement" : "Ceiling or mobile hoist",
+        "language" : [
+            "English",
+            "French",
+            
+            
+            "Polish"
+        ],
+        "owner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunH0Cm5N9wOaTDolHeadWdiDn7F-jJA9LMw&usqp=CAU",
+      "guests": {
+        "adults": 3,
+        "children": 4,
+        "infants":2,
+        "pets": 2
+      }
+    },
+    {
+        "rating": 4,
+        "desc": "Fully furnished apartment",
+        "imgSrc": [
+            "https://a0.muscache.com/im/pictures/miso/Hosting-855265289472667062/original/99f4d83b-7de8-467a-be43-4a5ddd184b24.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-855265289472667062/original/1a2cd065-f0f7-475b-8f6e-2edafe503cc2.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-855265289472667062/original/e6bfdcec-ec38-41a8-ba08-59254454d877.jpeg?im_w=720"
+        ],
+        "price": "5000",
+        "checkInDate": "2023-10-10",
+        "checkOutDate": "2023-10-20",
+        "title": "Flat in calgary",
+        "location": "canada",
+        "property_type": [
+            "Arctic",
+            "Rooms",
+            "Treehouses"
+        ],
+        "total_before_taxes": "100000",
+        "place": [
+            "Anytype"
+           
+        ],
+        "bedrooms" : "3",
+        "beds" : "5",
+        "bathrooms" : "4",
+        "typeOfProperty" : [
+            "House",
+            "Flat",
+            "Guest House"
+        ],
+        
+        "essentials": [
+           
+            "Kitchen",
+            "Washing Machine",
+            "Dryer",
+            "Air Conditioning"
+
+            
+            
+        ],
+        "features" : [
+            
+            "BBQ grill",
+            "Breakfast",
+            "Indoor fireplace",
+            "Smoking allowed"
+          ],
+          "view" : ["Waterfront"],
+          "safety" : [
+            "Smoke alarm", 
+            "Carbon monoxide alarm"
+        ],
+        "bookingOptions" : [
+            "Instant Booking",
+            "Self check-in",
+            "Allows pets"
+        ],
+        "guestAccessibility" : [
+            "Step-free guest entrance",
+            "Guest entrance wider than 32 inches (81 centimetres)",
+            "Accessible parking spot",
+            "Step-free path to the guest entrance"
+        ],
+        "bedroomFeatures" : [
+            "Step-free bedroom access",
+            "Bedroom entrance wider than 32 inches (81 centimetres)"
+        ],
+        "bathroomFeatures" : [
+            "Step-free bathroom access",
+            "Bathroom entrance wider than 32 inches (81 centimetres)",
+            "Shower grab bar",
+            "Toilet grab bar",
+            "Step-free shower",
+            "Shower or bath chair"
+        ],
+        "equipement" : "Ceiling or mobile hoist",
+        "language" : [
+            "English",
+            "French",
+            "German",
+            
+            "Greek",
+            "Hebrew"
+            
+        ],
+        "owner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3f3a-tFxo1pz4IbdSgVsuFi54HgBtriWTtA&usqp=CAU",
+        "guests": {
+          "adults": 3,
+          "children": 4,
+          "infants":2,
+          "pets": 2
+        }
+    },
+    {
+        "rating": 4,
+        "desc": "Hambrook point cottage",
+        "imgSrc": [
+            "https://a0.muscache.com/im/pictures/036efbd7-0d59-41a8-a243-9f64032398bc.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/1cfbf299-d0ba-4b4e-ab41-7f682caa362c.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/322b43a4-c3d7-40bb-b01d-0ad16a3d5872.jpg?im_w=720"
+        ],
+        "price": "2000",
+        "checkInDate": "2023-10-10",
+        "checkOutDate": "2023-10-20",
+        "title": "Cottage in renous",
+        "location": "canada",
+        "property_type": [
+            "Arctic",
+            "Rooms",
+            "National parks"
+        ],
+        "total_before_taxes": "100000",
+        "place": [
+            
+            "Rooms",
+            "Entire home"
+        ],
+        "bedrooms" : "4",
+        "beds" : "4",
+        "bathrooms" : "3",
+        "typeOfProperty" : [
+            "House",
+            "Flat",
+            "Guest House",
+            "Hotel"
+        ],
+        
+        "essentials": [
+            "Wifi",
+            "Kitchen",
+            "Washing Machine",
+            "Dryer"
+            
+            
+        ],
+        "features" : [
+           
+            "Indoor fireplace",
+            "Smoking allowed"
+          ],
+          "view" : ["Waterfront"],
+          "safety" : [
+            "Smoke alarm", 
+            "Carbon monoxide alarm"
+        ],
+        "bookingOptions" : [
+            "Instant Booking",
+            "Self check-in"
+        ],
+        "guestAccessibility" : [
+            "Step-free guest entrance",
+            "Guest entrance wider than 32 inches (81 centimetres)",
+            "Accessible parking spot",
+            "Step-free path to the guest entrance"
+        ],
+        "bedroomFeatures" : [
+            "Step-free bedroom access",
+            "Bedroom entrance wider than 32 inches (81 centimetres)"
+        ],
+        "bathroomFeatures" : [
+            
+            "Step-free shower",
+            "Shower or bath chair"
+        ],
+        "equipement" : "Ceiling or mobile hoist",
+        "language" : [
+            "English",
+            
+           
+            "Hindi",
+            
+          
+            "Thai",
+            "Punjabi",
+            
+            "Polish"
+            
+        ],
+        "owner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYM8hKbJ0CWZWoDN7XAP9W3kXJx6uYE8PPHPM7freggHpRuebkHj0_W2V9Px2TQUR12g&usqp=CAU",
+      "guests": {
+        "adults": 3,
+        "children": 4,
+        "infants":2,
+        "pets": 2
+      }
+    },
+    {
+        "rating": 4,
+        "desc": "Beautiful garden and luxurious",
+        "imgSrc": [
+            "https://a0.muscache.com/im/pictures/miso/Hosting-2359112/original/75374b28-6673-42c1-94e2-b960065bb8e0.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/2ba1c34b-d0b5-4d5b-a84a-30aa33d86ec4.jpg?im_w=720"
+        ],
+        "price": "1000",
+        "checkInDate": "2023-10-10",
+        "checkOutDate": "2023-10-20",
+        "title": "Room in gressan",
+        "location": "italy",
+        "property_type": [
+            "Arctic",
+            "Rooms",
+            "Trending"
+        ],
+        "total_before_taxes": "100000",
+        "place": [
+           
+            "Rooms"
+            
+        ],
+        "bedrooms" : "2",
+        "beds" : "2",
+        "bathrooms" : "2",
+        "typeOfProperty" : [
+            "House",
+            "Flat",
+            "Guest House",
+            "Hotel"
+        ],
+        
+        "essentials": [
+            "Wifi",
+            "Kitchen",
+            "Washing Machine",
+            "Dryer"
+            
+           
+        ],
+        "features" : [
+            
+            "King bed",
+            "Gym",
+            "BBQ grill",
+            "Breakfast",
+            "Indoor fireplace",
+            "Smoking allowed"
+          ],
+          "view" : ["Waterfront"],
+          "safety" : [
+            "Smoke alarm", 
+            "Carbon monoxide alarm"
+        ],
+        "bookingOptions" : [
+            "Instant Booking",
+            "Self check-in",
+            "Allows pets"
+        ],
+        "guestAccessibility" : [
+           
+            "Step-free path to the guest entrance"
+        ],
+        "bedroomFeatures" : [
+            "Step-free bedroom access",
+            "Bedroom entrance wider than 32 inches (81 centimetres)"
+        ],
+        "bathroomFeatures" : [
+            "Step-free bathroom access",
+            "Bathroom entrance wider than 32 inches (81 centimetres)",
+            "Shower grab bar",
+            "Toilet grab bar",
+            "Step-free shower",
+            "Shower or bath chair"
+        ],
+        "equipement" : "Ceiling or mobile hoist",
+        "language" : [
+            "English",
+            "French",
+            "German",
+            
+            "Spanish",
+            
+            "Portuguese",
+           
+            "Polish"
+            
+        ],
+        "owner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXOtX-_nT_lyxUqmksu6S5l5kcyFakdbrVWQ&usqp=CAU",
+      "guests": {
+        "adults": 3,
+        "children": 4,
+        "infants":2,
+        "pets": 2
+      }
+    },
+    {
+        "rating": 4,
+        "desc": "A terrace by the sea",
+        "imgSrc": [
+            "https://a0.muscache.com/im/pictures/2349d92e-6368-4e8b-ab83-69170db5de62.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/9bc8a451-8c24-4a0f-8aef-c4e57319b2eb.jpg?im_w=720"
+        ],
+        "price": "1000",
+        "checkInDate": "2023-10-10",
+        "checkOutDate": "2023-10-20",
+        "title": "Flat in morcone",
+        "location": "italy",
+        "property_type": [
+            "Arctic",
+            "Rooms",
+            "Countryside"
+        ],
+        "total_before_taxes": "100000",
+        "place": [
+            
+           
+            "Entire home"
+        ],
+        "bedrooms" : "4",
+        "beds" : "4",
+        "bathrooms" : "3",
+        "typeOfProperty" : [
+            "House",
+            "Flat",
+            "Guest House",
+            "Hotel"
+        ],
+        
+        "essentials": [
+            "Wifi",
+            "Kitchen",
+            "Washing Machine",
+            "Dryer"
+           
+            
+        ],
+        "features" : [
+            
+            "EV charger",
+            "Cot",
+            "King bed",
+            "Gym",
+            "BBQ grill",
+            "Breakfast",
+            "Indoor fireplace",
+            "Smoking allowed",
+            "Allows pets"
+        ],
+        "view" : ["Waterfront"],
+        "safety" : [
+          "Smoke alarm", 
+          "Carbon monoxide alarm"
+      ],
+      "bookingOptions" : [
+        "Instant Booking",
+        "Self check-in",
+        "Allows pets"
+    ],
+        "guestAccessibility" : [
+            "Step-free guest entrance",
+            "Guest entrance wider than 32 inches (81 centimetres)",
+            "Accessible parking spot",
+            "Step-free path to the guest entrance"
+        ],
+        "bedroomFeatures" : [
+            "Step-free bedroom access",
+            "Bedroom entrance wider than 32 inches (81 centimetres)"
+        ],
+        "bathroomFeatures" : [
+            "Step-free bathroom access",
+            "Bathroom entrance wider than 32 inches (81 centimetres)",
+            
+            "Shower or bath chair"
+        ],
+        "equipement" : "Ceiling or mobile hoist",
+        "language" : [
+           
+            "Chinese (Simplified)",
+            "Arabic",
+            "Hindi",
+            "Portuguese",
+            "Indonesian",
+            "Dutch",
+            "Bengali"
+            
+        ],
+        "owner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEjkf3QtZgpT6YeMmf8PaIKsXYzGPkGCobPg&usqp=CAU",
+      "guests": {
+        "adults": 3,
+        "children": 4,
+        "infants":2,
+        "pets": 2
+      }
+    },
+    {
+        "rating": 4,
+        "desc": "Greenery all around",
+        "imgSrc": [
+            "https://a0.muscache.com/im/pictures/41d8a0ea-41f5-49d8-a852-5b68d577bd6d.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/e20bbe11-ac45-426d-8b99-f6b5cf80d76d.jpg?im_w=720"
+        ],
+        "price": "45000",
+        "checkInDate": "2023-10-10",
+        "checkOutDate": "2023-10-20",
+        "title": "Solan, India",
+        "location": "india",
+        "property_type": [
+            "Arctic",
+            "Rooms"
+        ],
+        "total_before_taxes": "100000",
+        "place": [
+            
+            "Rooms",
+            "Entire home"
+        ],
+        "bedrooms" : "4",
+        "beds" : "4",
+        "bathrooms" : "3",
+        "typeOfProperty" : [
+            "House",
+            "Flat",
+            "Guest House",
+            "Hotel"
+        ],
+        
+        "essentials": [
+            "Wifi",
+            "Kitchen",
+            "Washing Machine",
+            "Dryer"
+           
+        ],
+        "features" : [
+            
+            "BBQ grill",
+            "Breakfast",
+            "Indoor fireplace",
+            "Smoking allowed"
+          ],
+          "view" : ["Waterfront"],
+          "safety" : [
+            "Smoke alarm", 
+            "Carbon monoxide alarm"
+        ],
+        "bookingOptions" : [
+            "Instant Booking",
+            "Self check-in",
+            "Allows pets"
+        ],
+        "guestAccessibility" : [
+            "Step-free guest entrance",
+            "Guest entrance wider than 32 inches (81 centimetres)",
+            "Accessible parking spot",
+            "Step-free path to the guest entrance"
+        ],
+        "bedroomFeatures" : [
+            "Step-free bedroom access",
+            "Bedroom entrance wider than 32 inches (81 centimetres)"
+        ],
+        "bathroomFeatures" : [
+            "Step-free bathroom access",
+            "Bathroom entrance wider than 32 inches (81 centimetres)",
+            "Shower grab bar",
+            "Toilet grab bar",
+            "Step-free shower",
+            "Shower or bath chair"
+        ],
+        "equipement" : "Ceiling or mobile hoist",
+        "language" : [
+            "English",
+            "French",
+            
+            "Punjabi",
+            "Greek",
+            "Hebrew",
+            "Polish",
+            "Danish",
+            "Swedish",
+            "Ukrainian"
+        ],
+        "owner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaEITcjJhhq0mCU-OrIIqqt94CcjUxR50mnA&usqp=CAU",
+        "guests": {
+          "adults": 3,
+          "children": 4,
+          "infants":2,
+          "pets": 2
+        }
+    },
+    {
+        "rating": 4,
+        "desc": "Greenery all around",
+        "imgSrc": [
+            "https://a0.muscache.com/im/pictures/a7518ff8-41ae-482e-b489-9854e5af95cb.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/b241540b-4264-4a79-920b-ecf2b43dfa25.jpg?im_w=720"
+        ],
+        "price": "45000",
+        "checkInDate": "2023-10-10",
+        "checkOutDate": "2023-10-20",
+        "title": "Kasol, India",
+        "location": "india",
+        "property_type": [
+            "Arctic",
+            "Rooms"
+        ],
+        "total_before_taxes": "100000",
+        "place": [
+            
+            "Rooms"
+            
+        ],
+        "bedrooms" : "4",
+        "beds" : "4",
+        "bathrooms" : "3",
+        "typeOfProperty" : [
+            "House",
+            "Flat",
+            "Guest House",
+            "Hotel"
+        ],
+        
+        "essentials": [
+           
+            "Heating",
+            "Dedicated workspace",
+            "TV",
+            "Hair dryer",
+            "Iron"
+        ],
+        "features" : [
+           
+            "King bed",
+            "Gym",
+            "BBQ grill",
+            "Breakfast",
+            "Indoor fireplace",
+            "Smoking allowed"
+          ],
+          "view" : ["Waterfront"],
+          "safety" : [
+            "Smoke alarm", 
+            "Carbon monoxide alarm"
+        ],
+        "bookingOptions": [
+            "Instant Booking",
+            "Self check-in",
+            "Allows pets"
+        ],
+        "guestAccessibility" : [
+            "Step-free guest entrance",
+            "Guest entrance wider than 32 inches (81 centimetres)",
+            "Accessible parking spot",
+            "Step-free path to the guest entrance"
+        ],
+        "bedroomFeatures" : [
+            "Step-free bedroom access",
+            "Bedroom entrance wider than 32 inches (81 centimetres)"
+        ],
+        "bathroomFeatures" : [
+           
+            "Step-free shower",
+            "Shower or bath chair"
+        ],
+        "equipement" : "Ceiling or mobile hoist",
+        "language" : [
+            "English",
+            "French",
+            
+            "Arabic",
+            "Hindi",
+            "Portuguese",
+            "Indonesian"
+           
+        ],
+        "owner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVO19OAlqRhHBuz5BaUMu5VEbB5r5CSxKYvA&usqp=CAU",
+        "guests": {
+          "adults": 3,
+          "children": 4,
+          "infants":2,
+          "pets": 2
+        }
+    },
+    {
+        "rating": 4,
+        "desc": "Greenery all around",
+        "imgSrc": [
+            "https://a0.muscache.com/im/pictures/2a0f3307-676e-49cd-b980-02b5905ccbe2.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/c7393c4f-bf0e-4986-95fb-b3e221a801c5.jpg?im_w=720"
+        ],
+        "price": "4000",
+        "checkInDate": "2023-10-10",
+        "checkOutDate": "2023-10-20",
+        "title": "Patiala, India",
+        "location": "india",
+        "property_type": [
+            "Arctic",
+            "Rooms"
+        ],
+        "total_before_taxes": "100000",
+         "place": [
+            
+            "Rooms"
+        ],
+        "bedrooms" : "4",
+        "beds" : "4",
+        "bathrooms" : "3",
+        "typeOfProperty" : [
+            "House",
+            "Flat",
+            "Guest House",
+            "Hotel"
+        ],
+        
+        "essentials": [
+            "Wifi",
+            "Kitchen",
+            "Washing Machine",
+            "Dryer"
+            
+
+        ],
+        "features" : [
+           
+            "Gym",
+            "BBQ grill",
+            "Breakfast",
+            "Indoor fireplace",
+            "Smoking allowed"
+          ],
+          "view" : ["Waterfront"],
+          "safety" : [
+            "Smoke alarm", 
+            "Carbon monoxide alarm"
+        ],
+        "bookingOptions" : [
+            "Instant Booking",
+            "Self check-in",
+            "Allows pets"
+        ],
+        "guestAccessibility" : [
+            "Step-free guest entrance",
+            "Guest entrance wider than 32 inches (81 centimetres)",
+            "Accessible parking spot",
+            "Step-free path to the guest entrance"
+        ],
+        "bedroomFeatures" : [
+            "Step-free bedroom access",
+            "Bedroom entrance wider than 32 inches (81 centimetres)"
+        ],
+        "bathroomFeatures" : [
+            "Step-free bathroom access",
+            "Bathroom entrance wider than 32 inches (81 centimetres)",
+            "Shower grab bar",
+            "Toilet grab bar",
+            "Step-free shower",
+            "Shower or bath chair"
+        ],
+        "equipement" : "Ceiling or mobile hoist",
+        "language" : [
+            "English",
+           
+            "Bengali",
+            "Thai",
+            "Punjabi",
+            "Greek"
+            
+        ],
+        "owner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc-nZle5TU8k51df2V-NPakoHK6g-5dcpepw&usqp=CAU",
+        "guests": {
+          "adults": 3,
+          "children": 4,
+          "infants":2,
+          "pets": 2
+        }
+    },
+    {
+        "rating": 4,
+        "desc": "Pool and super large farm house",
+        "imgSrc": [
+            "https://a0.muscache.com/im/pictures/miso/Hosting-689564906939057902/original/186fc2ea-575f-40a5-bc26-1954c9b62ca0.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-689564906939057902/original/7e32b95a-f1f0-4b0a-93e5-c2e1af0ac285.jpeg?im_w=720"
+        ],
+        "price": "45000",
+        "checkInDate": "2023-10-10",
+        "checkOutDate": "2023-10-20",
+        "title": "Gurugram, India",
+        "location": "india",
+        "property_type": [
+            "Arctic",
+            "Rooms"
+        ],
+        "total_before_taxes": "100000",
+        "place": [
+            
+            "Rooms",
+            "Entire home"
+        ],
+        "bedrooms" : "4",
+        "beds" : "4",
+        "bathrooms" : "3",
+        "typeOfProperty" : [
+            "House",
+            "Flat",
+            "Guest House",
+            "Hotel"
+        ],
+        
+        "essentials": [
+            "Wifi",
+            "Kitchen",
+            "Washing Machine",
+            "Dryer"
+            
+           
+        ],
+        "features" : [
+            
+            "Free parking",
+            "EV charger",
+            "Cot",
+            "King bed",
+            
+            "Indoor fireplace",
+            "Smoking allowed"
+          ],
+          "view" : ["Waterfront"],
+          "safety" : [
+            "Smoke alarm", 
+            "Carbon monoxide alarm"
+        ],
+        "bookingOptions" : [
+            "Instant Booking",
+            "Self check-in",
+            "Allows pets"
+        ],
+        "guestAccessibility" : [
+            "Step-free guest entrance",
+            "Guest entrance wider than 32 inches (81 centimetres)",
+            "Accessible parking spot",
+            "Step-free path to the guest entrance"
+        ],
+        "bedroomFeatures" : [
+            "Step-free bedroom access",
+            "Bedroom entrance wider than 32 inches (81 centimetres)"
+        ],
+        "bathroomFeatures" : [
+            "Step-free bathroom access",
+            "Bathroom entrance wider than 32 inches (81 centimetres)",
+            
+            "Shower or bath chair"
+        ],
+        "equipement" : "Ceiling or mobile hoist",
+        "language" : [
+           
+            "Chinese (Simplified)",
+            "Arabic",
+            "Hindi",
+            "Portuguese",
+            "Indonesian",
+            "Dutch",
+            "Bengali"
+            
+        ],
+        "owner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEjkf3QtZgpT6YeMmf8PaIKsXYzGPkGCobPg&usqp=CAU",
+        "guests": {
+          "adults": 3,
+          "children": 4,
+          "infants":2,
+          "pets": 2
+        }
+    },
+    {
+        "rating": 5,
+        "desc": "Beach and Sunset Views",
+        "imgSrc": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqg5siFywtSULLeH0eaN3k6cBQy_HSnJpJGQ&usqp=CAU",
+            "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lpibo-ew-1656015868.jpg",
+            "https://www.travelandleisure.com/thmb/BJupPeakYV7RY_vQQnmvrKAl7LU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/soneva-jani-sunset-view-maldives-SONEVA0421-74b37591d80441ce87831a41da518e49.jpg",
+            "https://i0.wp.com/theluxuryeditor.com/wp-content/uploads/2019/02/178793622.jpg?resize=1024%2C683"
+        ],
+        "price": "20000",
+        "checkInDate": "2023-05-15",
+        "checkOutDate": "2023-05-20",
+        "title": "Villa1",
+        "location": "india",
+        "property_type": [
+            "Arctic",
+            "Rooms",
+            "Cabins",
+            "Beachfront",
+            "Amazing Views"
+        ],
+        "total_before_taxes": "100000",
+        "place": [
+            
+            "Rooms",
+            "Entire home"
+        ],
+        "bedrooms" : "4",
+        "beds" : "4",
+        "bathrooms" : "3",
+        "typeOfProperty" : [
+            "House",
+            
+            "Guest House",
+            "Hotel"
+        ],
+        
+        "essentials": [
+            "Wifi",
+            "Kitchen",
+            "Washing Machine",
+            "Dryer",
+            "Air Conditioning"
+            
+            
+        ],
+        "features" : [
+            "Pool",
+            "Hot tub",
+            "Free parking",
+            "EV charger"
+          ],
+          "view": ["Waterfront"],
+          "safety" : [
+            "Smoke alarm"
+            
+        ],
+        "bookingOptions" : [
+            "Instant Booking"
+            
+        ],
+        "guestAccessibility" : [
+            "Step-free guest entrance"
+    
+        ],
+        "bedroomFeatures" : [
+            "Step-free bedroom access",
+            "Bedroom entrance wider than 32 inches (81 centimetres)"
+        ],
+        "bathroomFeatures" : [
+            
+            "Step-free shower",
+            "Shower or bath chair"
+        ],
+        "equipement" : "Ceiling or mobile hoist",
+        "language" : [
+            "English",
+            
+            "Hindi",
+            
+            "Bengali",
+            
+            "Punjabi"
+            
+        ],
+        "owner": "https://images.hindustantimes.com/img/2022/11/05/550x309/Elon_Musk_1667622395019_1667622395217_1667622395217.jpg",
+        "guests": {
+          "adults": 3,
+          "children": 4,
+          "infants":2,
+          "pets": 2
+        }
+    }
+    
+]
